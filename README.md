@@ -27,7 +27,7 @@
 <a href="https://github.com/Ricardos1000/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardos1000&theme=dark&show_icons=true&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Ricardos1000/convoychat">
+<a href="https://github.com/Ricardos1000&theme=dark&show_icons=true/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardos1000&theme=dark&show_icons=true&repo=convoychat" />
 </a>
 
