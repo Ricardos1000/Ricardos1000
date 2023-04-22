@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardos1000&theme=dark&show_icons=true)](https://github.com/Ricardos1000/github-readme-stats)
-
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
