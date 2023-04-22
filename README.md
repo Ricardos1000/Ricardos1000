@@ -20,16 +20,10 @@
 <hr dir"auto"></hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardos1000&theme=dark&show_icons=true)](https://github.com/Ricardos1000&theme=dark&show_icons=true/github-readme-stats)   
--->
-<br>
-<a href="https://github.com/Ricardos1000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardos1000&theme=dark&show_icons=true&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Ricardos1000/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardos1000&repo=convoychat" />
-</a>
+
+
 
 <hr dir"auto"></hr>
 <h4 dir="auto">Skills</h4>
