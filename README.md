@@ -18,9 +18,8 @@
 - Skills - PHP, Java, SQL, SQLServer, CSS e HTML
 
 <hr dir"auto"></hr>
-
-<div dir="auto>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
+<div dir="auto">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
 </div>
           
 <div dir="auto">
