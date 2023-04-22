@@ -19,9 +19,13 @@
 
 <hr dir"auto"></hr>
 
+<div dir="auto>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardos1000&theme=dark&show_icons=true)
+</div>
+          
+<div dir="auto">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardos1000&theme=dark&show_icons=true)](https://github.com/Ricardos1000/github-readme-stats)
-
+</div>
 
 <hr dir"auto"></hr>
 <h4 dir="auto">Skills</h4>
